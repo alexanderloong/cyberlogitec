@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<screen-definitions xmlns="http://www.cyberlogitec.com/screen-definitions">
+	<!-- NguyenDinhThao : 2022-10-20 start -->
+    <screen name="THAO_TRN_001">
+        <parameter key="title" value="THAO_TRN_001" direct="true"/>
+        <parameter key="body"     value="apps/opus/esm/clv/thaotraining/practice1/jsp/THAO_TRN_001.jsp"/>
+    </screen>
+	<!-- NguyenDinhThao : 2022-10-20 end -->
+
+</screen-definitions>
